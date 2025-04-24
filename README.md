@@ -4,6 +4,8 @@ A simple Streamlit web application designed to interactively demonstrate the cha
 
 This app is a great educational tool for understanding how these fundamental parameters influence probability distributions.
 
+![screenshot](screenshot.png)
+
 ---
 
 ## ✨ Features
